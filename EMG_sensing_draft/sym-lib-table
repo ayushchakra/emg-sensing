@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name "MCP6N11")(type "Legacy")(uri "${KIPRJMOD}/parts/KiCAD/2022-10-25_19-47-35/2022-10-25_19-47-35.lib")(options "")(descr ""))
-  (lib (name "Eclectronics")(type "KiCad")(uri "/home/ayush/Documents/eclec/emg-sensing/Eclectronics/Eclectronics.kicad_sym")(options "")(descr ""))
+  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Eclectronics/Eclectronics.kicad_sym")(options "")(descr ""))
 )
