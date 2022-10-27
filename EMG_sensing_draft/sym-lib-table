@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name "MCP6N11")(type "Legacy")(uri "${KIPRJMOD}/parts/KiCAD/2022-10-25_19-47-35/2022-10-25_19-47-35.lib")(options "")(descr ""))
+  (lib (name "MCP6N11")(type "Legacy")(uri "${KIPRJMOD}/parts/MCP6N11-002ESN/MCP6N11-002ESN.lib")(options "")(descr ""))
   (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Eclectronics/Eclectronics.kicad_sym")(options "")(descr ""))
+  (lib (name "NCS4325DR2G")(type "Legacy")(uri "${KIPRJMOD}/parts/NCS4325DR2G/NCS4325DR2G.lib")(options "")(descr ""))
 )
