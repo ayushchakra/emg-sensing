@@ -2467,7 +2467,7 @@
     (in_bom yes) (on_board yes)
     (uuid 0392a271-4134-41ca-8350-e6e1460a370e)
     (property "Reference" "C15" (id 0) (at 314.96 110.49 90))
-    (property "Value" "1uF" (id 1) (at 314.96 102.87 90))
+    (property "Value" "0.33uF" (id 1) (at 314.96 102.87 90))
     (property "Footprint" "" (id 2) (at 318.77 105.7148 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4278,7 +4278,7 @@
       (reference "C14") (unit 1) (value "10µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/0392a271-4134-41ca-8350-e6e1460a370e"
-      (reference "C15") (unit 1) (value "1uF") (footprint "")
+      (reference "C15") (unit 1) (value "0.33uF") (footprint "")
     )
     (path "/edc6d0d1-95cd-4bd8-8476-e09b97bf0890"
       (reference "D1") (unit 1) (value "LED") (footprint "")
