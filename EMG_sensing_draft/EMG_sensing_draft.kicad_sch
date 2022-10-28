@@ -2467,7 +2467,7 @@
     (in_bom yes) (on_board yes)
     (uuid 0392a271-4134-41ca-8350-e6e1460a370e)
     (property "Reference" "C15" (id 0) (at 314.96 110.49 90))
-    (property "Value" "1uF" (id 1) (at 314.96 102.87 90))
+    (property "Value" "0.33uF" (id 1) (at 314.96 102.87 90))
     (property "Footprint" "" (id 2) (at 318.77 105.7148 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2685,7 +2685,7 @@
     (property "Reference" "D2" (id 0) (at 151.13 170.4974 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "LED" (id 1) (at 151.13 173.0374 90)
+    (property "Value" "TEST" (id 1) (at 151.13 173.0374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "LED_SMD:LED_0805_2012Metric" (id 2) (at 147.32 170.18 0)
@@ -4282,13 +4282,13 @@
       (reference "C14") (unit 1) (value "10µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/0392a271-4134-41ca-8350-e6e1460a370e"
-      (reference "C15") (unit 1) (value "1uF") (footprint "")
+      (reference "C15") (unit 1) (value "0.33uF") (footprint "")
     )
     (path "/edc6d0d1-95cd-4bd8-8476-e09b97bf0890"
       (reference "D1") (unit 1) (value "LED") (footprint "")
     )
     (path "/2a4820de-c377-4e03-8775-f5a166966ff3"
-      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric")
+      (reference "D2") (unit 1) (value "TEST") (footprint "LED_SMD:LED_0805_2012Metric")
     )
     (path "/b2ef5382-c93c-433d-bae6-7949c1a7f81b"
       (reference "D3") (unit 1) (value "PWR") (footprint "LED_SMD:LED_0805_2012Metric")
