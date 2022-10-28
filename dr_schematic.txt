@@ -1,0 +1,9 @@
+set emg_ref to ground
+vdd/2 for vref and voltage divider reference
+use buffer circuit
+use 10k for divider
+reference opamp vdd/2
+use first one for rectifier
+slew rate: 1.5 mV/s for isim
+mcp6021/22/24
+for low pass filter, feed to negative
