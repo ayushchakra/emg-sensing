@@ -2888,7 +2888,7 @@
     (in_bom yes) (on_board yes)
     (uuid 119c3aed-e25b-451b-8a41-ecdd441151c4)
     (property "Reference" "C13" (id 0) (at 213.36 110.49 90))
-    (property "Value" "100uF" (id 1) (at 213.36 107.95 90))
+    (property "Value" "10uF" (id 1) (at 213.36 107.95 90))
     (property "Footprint" "" (id 2) (at 217.17 113.3348 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3161,7 +3161,7 @@
     (in_bom yes) (on_board yes)
     (uuid 34542205-bb26-439b-be2b-5c4fef448fd0)
     (property "Reference" "R10" (id 0) (at 204.47 111.76 90))
-    (property "Value" "75" (id 1) (at 204.47 109.22 90))
+    (property "Value" "787" (id 1) (at 204.47 109.22 90))
     (property "Footprint" "" (id 2) (at 204.47 116.078 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3382,7 +3382,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5da1655c-58a9-4fc6-bcf4-7a6ba7b254d9)
     (property "Reference" "R12" (id 0) (at 226.06 102.87 90))
-    (property "Value" "750" (id 1) (at 226.06 105.41 90))
+    (property "Value" "8.1K" (id 1) (at 226.06 105.41 90))
     (property "Footprint" "" (id 2) (at 226.06 110.998 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -4560,7 +4560,7 @@
       (reference "C12") (unit 1) (value "0.1uF") (footprint "")
     )
     (path "/119c3aed-e25b-451b-8a41-ecdd441151c4"
-      (reference "C13") (unit 1) (value "100uF") (footprint "")
+      (reference "C13") (unit 1) (value "10uF") (footprint "")
     )
     (path "/2d833c17-71e7-42c7-b9f3-0c31cf2e96e2"
       (reference "C14") (unit 1) (value "10uF") (footprint "")
@@ -4623,13 +4623,13 @@
       (reference "R9") (unit 1) (value "100k") (footprint "")
     )
     (path "/34542205-bb26-439b-be2b-5c4fef448fd0"
-      (reference "R10") (unit 1) (value "75") (footprint "")
+      (reference "R10") (unit 1) (value "787") (footprint "")
     )
     (path "/dd22e7d4-d6e6-4fad-9fda-5ede9dd844e7"
       (reference "R11") (unit 1) (value "909") (footprint "")
     )
     (path "/5da1655c-58a9-4fc6-bcf4-7a6ba7b254d9"
-      (reference "R12") (unit 1) (value "750") (footprint "")
+      (reference "R12") (unit 1) (value "8.1K") (footprint "")
     )
     (path "/082d5159-8617-4ea9-8e71-abc836cf9dc0"
       (reference "R13") (unit 1) (value "200") (footprint "")
