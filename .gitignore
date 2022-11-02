@@ -1,3 +1,6 @@
 *backups*
 *autosave*
 *auto_save*
+*.log
+*.net
+*.raw
