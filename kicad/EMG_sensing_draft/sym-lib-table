@@ -3,4 +3,5 @@
   (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Eclectronics/Eclectronics.kicad_sym")(options "")(descr ""))
   (lib (name "RN4871")(type "Legacy")(uri "${KIPRJMOD}/parts/RN4871/RN4871.lib")(options "")(descr ""))
   (lib (name "MCP6024")(type "KiCad")(uri "${KIPRJMOD}/parts/MCP6024T/MCP6024T.kicad_sym")(options "")(descr ""))
+  (lib (name "ISL90462WIH627Z-TKCT-ND")(type "Legacy")(uri "${KIPRJMOD}/parts/ISL90462WIH627Z-TKCT-ND/ISL90462WIH627Z-TKCT-ND.lib")(options "")(descr ""))
 )
