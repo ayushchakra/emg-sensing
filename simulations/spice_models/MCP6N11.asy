@@ -4,10 +4,10 @@ RECTANGLE Normal -96 -72 96 72
 WINDOW 0 0 -72 Bottom 2
 WINDOW 3 0 72 Top 2
 WINDOW 39 0 96 Top 2
-SYMATTR Prefix X
 SYMATTR Value MCP6N11
-SYMATTR ModelFile C:\users\ayush\My Documents\MCP6N11_RevD.txt
 SYMATTR SpiceLine GM=1
+SYMATTR Prefix X
+SYMATTR ModelFile C:\Users\jLiu2\Documents\GitHub\emg-sensing\simulations\spice_models\MCP6N11_RevD
 PIN -96 -48 LEFT 8
 PINATTR PinName EN/CAL
 PINATTR SpiceOrder 1
