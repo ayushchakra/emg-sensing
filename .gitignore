@@ -4,3 +4,4 @@
 *.log
 *.net
 *.raw
+*.DS_Store*
