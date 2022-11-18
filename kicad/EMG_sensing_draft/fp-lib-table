@@ -1,5 +1,5 @@
 (fp_lib_table
-  (lib (name "Eclectronics")(type "KiCad")(uri "/home/ayush/Documents/eclec/emg-sensing/kicad/Eclectronics/Eclectronics.pretty")(options "")(descr ""))
+  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Eclectronics/Eclectronics.pretty")(options "")(descr ""))
   (lib (name "MCP6N11")(type "KiCad")(uri "${KIPRJMOD}/parts/MCP6N11-002ESN/footprints.pretty")(options "")(descr ""))
   (lib (name "ISL90462WIH627Z")(type "KiCad")(uri "${KIPRJMOD}/parts/ISL90462WIH627Z-TKCT-ND/footprints.pretty")(options "")(descr ""))
   (lib (name "RN4871")(type "KiCad")(uri "${KIPRJMOD}/parts/RN4871/footprints.pretty")(options "")(descr ""))
