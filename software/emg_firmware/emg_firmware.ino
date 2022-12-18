@@ -24,19 +24,21 @@ void setup() {
   Serial.begin();
   Serial1.setRX(1);
   Serial1.setTX(0);
-  Serial1.begin(9600);
+  Serial1.begin(115200);
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-  digitalWrite(LED_PIN_ONE, !digitalRead(LED_PIN_ONE));
-  digitalWrite(LED_PIN_TWO, !digitalRead(LED_PIN_TWO));
-  digitalWrite(LED_PIN_THREE, !digitalRead(LED_PIN_THREE));
-  digitalWrite(LED_PIN_FOUR, !digitalRead(LED_PIN_FOUR));
-  delay(500);
+  // digitalWrite(LED_PIN_ONE, !digitalRead(LED_PIN_ONE));
+  // digitalWrite(LED_PIN_TWO, !digitalRead(LED_PIN_TWO));
+  // digitalWrite(LED_PIN_THREE, !digitalRead(LED_PIN_THREE));
+  // digitalWrite(LED_PIN_FOUR, !digitalRead(LED_PIN_FOUR));
+  // delay(500);
   Serial.println(analogRead(A0) + 10000);
-  Serial.println(analogRead(A1) + 20000);
-  Serial.println(analogRead(A2) + 30000);
-  Serial.println(analogRead(A3) + 40000);
+  // Serial.println(analogRead(A1) + 20000);
+  // Serial.println(analogRead(A2) + 30000);
+  // Serial.println(analogRead(A3) + 40000);
+  Serial.flush();
+  delay(.5);
   // Serial1.println('4');
 }
