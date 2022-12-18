@@ -437,6 +437,38 @@
     [
       "2d9663de-7a2c-4535-add6-3c265543b92f",
       ""
+    ],
+    [
+      "a43217ba-6510-44f3-865f-9a3721067b63",
+      "Differential Amplifier 1"
+    ],
+    [
+      "973a181f-552f-4341-b476-5024098b0ffe",
+      "Differential Amplifier 2"
+    ],
+    [
+      "357a89eb-23ad-4664-a26e-9af74bd2472b",
+      "Differential Amplifier 3"
+    ],
+    [
+      "2c8a8636-af48-4808-9dd0-91bbc27690cd",
+      "Differential Amplifier 4"
+    ],
+    [
+      "594f5a7f-77ce-4938-9597-f2b712a43d95",
+      "Signal Processing 1"
+    ],
+    [
+      "77565b3b-c98e-4f5c-82e8-b99d9502b512",
+      "Signal Processing 2"
+    ],
+    [
+      "6b6e0c79-ceed-4ecd-af77-d6167f10b627",
+      "Signal Processing 3"
+    ],
+    [
+      "57400631-a5b6-4d1a-b4e2-5635f7a443eb",
+      "Signal Processing 4"
     ]
   ],
   "text_variables": {}
