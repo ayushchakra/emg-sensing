@@ -1443,7 +1443,6 @@
     )
   )
 
-
   (junction (at 308.61 54.61) (diameter 0) (color 0 0 0 0)
     (uuid 140d9e7d-85a3-470f-a91f-b978fa5b6447)
   )
@@ -2283,7 +2282,7 @@
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 1557fc3c-a923-4fc1-8d70-a9bd7344c199)
   )
-  (text "Note: Each differential signal is filtered with a bandpass filter (characteristic frequencies: 20 hz and 530 hz),\namplified with a gain of 101, rectified (reference: 1.65V), and level shifted to fall winin 0V-3.3V.\n"
+  (text "Note: Each differential signal is filtered with a bandpass filter (characteristic frequencies: 20 hz and 530 hz),\namplified with a gain of 20, rectified (reference: 1.65V), and level shifted to fall winin 0V-3.3V.\n"
     (at 281.305 119.38 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 213c0126-de12-4788-a2a8-f436d4d78840)
